@@ -1,6 +1,8 @@
 ``` Week11_Project_mysql_java
 
 ```
+
+```
 mysql-java/                        <- Root folder of your Maven project
 │
 ├── src/                           <- Java source code (required)
@@ -28,6 +30,7 @@ mysql-java/                        <- Root folder of your Maven project
 ├── .classpath                      <- Eclipse project classpath file
 ├── .project                        <- Eclipse project descriptor file
 └── .settings/                      <- Eclipse IDE settings folder (optional)
+```
 ```
 
 Project Name: MySQL-Java Maven Project
@@ -63,4 +66,6 @@ Database name: projects
 Table(s): project
 
 SQL files to create the database and tables are included in the /sql folder.
+
+```
 
