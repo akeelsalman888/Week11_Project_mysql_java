@@ -17,12 +17,6 @@ mysql-java/                        <- Root folder of your Maven project
 │       └── java/
 │           └── (test classes)
 │
-├── sql/                           <- Folder for your SQL scripts
-│   ├── create_tables.sql
-│   ├── insert_data.sql
-│   ├── update_project.sql
-│   └── delete_project.sql
-│
 ├── ERD.png                        <- Screenshot of your Entity Relationship Diagram
 ├── pom.xml                         <- Maven project descriptor
 ├── README.md                       <- Optional but recommended for explanation
